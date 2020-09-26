@@ -24,3 +24,4 @@ chmod +x install-sb.sh
 * instagram : thelinuxchoice
 * Twitter   : thelinuxchoice
 * SocialBox : Belahsan Ouerghi
+* Updated Script : bvdx199
